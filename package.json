@@ -2,12 +2,13 @@
   "dependencies": {
     "express": "^4.21.2"
   },
-  "scripts": {
-    "start": "node server.js"
-  },
+
   "name": "api_senac_teste",
   "version": "1.0.0",
   "main": "teste.js",
+  "scripts": {
+    "start": "node server.js"
+  },
   "devDependencies": {},
   "keywords": [],
   "author": "",
